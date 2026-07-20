@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://uci.edu/'>University of California, Irvine</a>
+subtitle: <a href='https://uci.edu/'>,University of California, Irvine</a>
 
 profile:
   align: right
