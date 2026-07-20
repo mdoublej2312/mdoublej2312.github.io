@@ -20,9 +20,6 @@ social: true # includes social icons at the bottom of the page
 
 Hello, I am an incoming graduate student, majoring in Computer Science at University of California, Irvine.<br/><br/>
 
-**Skills**<br/>
-Languages: C, C++, Java, Python<br/>
-Tools: Git, Docker, Adobe Photoshop, Adobe Illustrator, SketchUp, Rhino, AutoCAD, Microsoft Office, Microsoft PowerPoint, Enscape<br/><br/>
 
 **Education**<br/>
 M.S. Computer Science<br/>
