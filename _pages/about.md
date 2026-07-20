@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.skku.edu/eng/'>Sungkyunkwan University</a>, Seoul, South Korea
+subtitle: <a href='https://uci.edu/'>University of California, Irvine</a>
 
 profile:
   align: right
