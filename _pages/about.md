@@ -18,7 +18,10 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hello, I am an incoming graduate student, majoring in Computer Science at University of California, Irvine.<br/><br/>
+Hello, I am an incoming graduate student in the Master of Computer Science (MCS) program at the University of California, Irvine.<br/><br/>
+I received my B.S. in Computer Science and Engineering and B.S. in Architecture from Sungkyunkwan University. My research interests lie in computer vision, including multimodal vision-language models, generative vision, AR/VR, and 3D reconstruction & SLAM.<br/><br/>
+With my dual background in architecture and computer science, I am particularly interested in building AI-powered tools that make architectural design more accessible by bridging spatial understanding and machine perception.<br/><br/>
+Feel free to reach out via email!<br/><br/>
 
 
 **Education**<br/>
