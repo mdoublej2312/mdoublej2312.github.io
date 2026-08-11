@@ -6,4 +6,3 @@ importance: 1
 category: Architecture
 ---
 <a href="/assets/pdf/[최종]41분반-정미주-2020310780.pdf" target="_blank" class="btn btn-outline-primary">Panel (PDF)</a>
-<a href="/assets/pdf/2025 책자 레이아웃_정미주_수정.pdf" target="_blank" class="btn btn-outline-primary">Book (PDF)</a>
