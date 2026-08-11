@@ -592,8 +592,8 @@ jsonresume:
   - basics
   - experience
   - education
-  - publications
-  - projects
+  #- publications
+  #- projects
   - awards
   - skills
   - languages
